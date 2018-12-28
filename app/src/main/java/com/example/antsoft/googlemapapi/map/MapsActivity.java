@@ -1,4 +1,4 @@
-package com.example.antsoft.googlemapapi;
+package com.example.antsoft.googlemapapi.map;
 
 
 import android.Manifest;
@@ -13,6 +13,7 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 
+import com.example.antsoft.googlemapapi.R;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.OnMapReadyCallback;
